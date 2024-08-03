@@ -58,6 +58,9 @@ python3 -m scripts.train --algo ppo --env MiniGrid-LavaCrossingS9N1-v0  --model 
 
 Our in-distribution backdoor trigger here is the convergence of two lava rivers, forming a "+" sign. This tool can be used to detect such backdoor triggers in real-time and prevent the poisoned agent from taking malicious actions i.e., heading into the lava rivers in this context. 
 
+
+![](detector-in-action.gif)
+
 [![YouTube](http://i.ytimg.com/vi/ccfk7F8qKzI/hqdefault.jpg)](https://www.youtube.com/watch?v=ccfk7F8qKzI)
 
 ### Atari Breakout Experiments
