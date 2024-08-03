@@ -1,0 +1,27 @@
+Goal Ticker FP 0.5 and 99.5 Percentile (Threshold 5): 28
+Goal Ticker TN 0.5 and 99.5 Percentile (Threshold 5): 72
+Goal Ticker FP 1 and 99 Percentile (Threshold 5): 59
+Goal Ticker TN 1 and 99 Percentile (Threshold 5): 41
+Goal Ticker FP 2 and 98 Percentile (Threshold 5): 90
+Goal Ticker TN 2 and 98 Percentile (Threshold 5): 10
+
+Goal Ticker FP 0.5 and 99.5 Percentile (Threshold 10): 12
+Goal Ticker TN 0.5 and 99.5 Percentile (Threshold 10): 88
+Goal Ticker FP 1 and 99 Percentile (Threshold 10): 18
+Goal Ticker TN 1 and 99 Percentile (Threshold 10): 82
+Goal Ticker FP 2 and 98 Percentile (Threshold 10): 59
+Goal Ticker TN 2 and 98 Percentile (Threshold 10): 41
+
+Goal Ticker FP 0.5 and 99.5 Percentile (Threshold 15): 2
+Goal Ticker TN 0.5 and 99.5 Percentile (Threshold 15): 98
+Goal Ticker FP 1 and 99 Percentile (Threshold 15): 7
+Goal Ticker TN 1 and 99 Percentile (Threshold 15): 93
+Goal Ticker FP 2 and 98 Percentile (Threshold 15): 24
+Goal Ticker TN 2 and 98 Percentile (Threshold 15): 76
+
+Goal Ticker FP 0.5 and 99.5 Percentile (Threshold 20): 0
+Goal Ticker TN 0.5 and 99.5 Percentile (Threshold 20): 100
+Goal Ticker FP 1 and 99 Percentile (Threshold 20): 2
+Goal Ticker TN 1 and 99 Percentile (Threshold 20): 98
+Goal Ticker FP 2 and 98 Percentile (Threshold 20): 11
+Goal Ticker TN 2 and 98 Percentile (Threshold 20): 89

@@ -1,0 +1,27 @@
+Trigger Ticker TP 0.5 and 99.5 Percentile (Threshold 5): 93
+Trigger Ticker FN 0.5 and 99.5 Percentile (Threshold 5): 7
+Trigger Ticker TP 1 and 99 Percentile (Threshold 5): 98
+Trigger Ticker FN 1 and 99 Percentile (Threshold 5): 2
+Trigger Ticker TP 2 and 98 Percentile (Threshold 5): 98
+Trigger Ticker FN 2 and 98 Percentile (Threshold 5): 2
+
+Trigger Ticker TP 0.5 and 99.5 Percentile (Threshold 10): 74
+Trigger Ticker FN 0.5 and 99.5 Percentile (Threshold 10): 26
+Trigger Ticker TP 1 and 99 Percentile (Threshold 10): 89
+Trigger Ticker FN 1 and 99 Percentile (Threshold 10): 11
+Trigger Ticker TP 2 and 98 Percentile (Threshold 10): 98
+Trigger Ticker FN 2 and 98 Percentile (Threshold 10): 2
+
+Trigger Ticker TP 0.5 and 99.5 Percentile (Threshold 15): 63
+Trigger Ticker FN 0.5 and 99.5 Percentile (Threshold 15): 37
+Trigger Ticker TP 1 and 99 Percentile (Threshold 15): 72
+Trigger Ticker FN 1 and 99 Percentile (Threshold 15): 28
+Trigger Ticker TP 2 and 98 Percentile (Threshold 15): 82
+Trigger Ticker FN 2 and 98 Percentile (Threshold 15): 18
+
+Trigger Ticker TP 0.5 and 99.5 Percentile (Threshold 20): 49
+Trigger Ticker FN 0.5 and 99.5 Percentile (Threshold 20): 51
+Trigger Ticker TP 1 and 99 Percentile (Threshold 20): 63
+Trigger Ticker FN 1 and 99 Percentile (Threshold 20): 37
+Trigger Ticker TP 2 and 98 Percentile (Threshold 20): 71
+Trigger Ticker FN 2 and 98 Percentile (Threshold 20): 29
