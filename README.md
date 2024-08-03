@@ -60,6 +60,7 @@ Our in-distribution backdoor trigger here is the convergence of two lava rivers,
 
 
 ![](detector-in-action.gif)
+
 Watch the video [on Youtube](https://www.youtube.com/watch?v=ccfk7F8qKzI)
 
 ### Atari Breakout Experiments
